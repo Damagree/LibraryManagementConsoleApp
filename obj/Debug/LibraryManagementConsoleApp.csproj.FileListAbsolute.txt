@@ -1,0 +1,7 @@
+D:\Learning\.NET\Phase 1\LibraryManagementConsoleApp\bin\Debug\LibraryManagementConsoleApp.exe.config
+D:\Learning\.NET\Phase 1\LibraryManagementConsoleApp\bin\Debug\LibraryManagementConsoleApp.exe
+D:\Learning\.NET\Phase 1\LibraryManagementConsoleApp\bin\Debug\LibraryManagementConsoleApp.pdb
+D:\Learning\.NET\Phase 1\LibraryManagementConsoleApp\obj\Debug\LibraryManagementConsoleApp.csproj.AssemblyReference.cache
+D:\Learning\.NET\Phase 1\LibraryManagementConsoleApp\obj\Debug\LibraryManagementConsoleApp.csproj.CoreCompileInputs.cache
+D:\Learning\.NET\Phase 1\LibraryManagementConsoleApp\obj\Debug\LibraryManagementConsoleApp.exe
+D:\Learning\.NET\Phase 1\LibraryManagementConsoleApp\obj\Debug\LibraryManagementConsoleApp.pdb
